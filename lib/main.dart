@@ -47,7 +47,7 @@ class MyHomePage extends StatelessWidget {
             ),
             Padding(
               padding: const EdgeInsets.only(left:30.0, top: 5.0),
-              child: Text("Pagi & Petang", style: TextStyle(fontSize: 30.0,fontWeight: FontWeight.w400)),
+              child: Text("morning & evening", style: TextStyle(fontSize: 30.0,fontWeight: FontWeight.w400)),
             ),
 
             SizedBox(height: 20.0,),
